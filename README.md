@@ -10,11 +10,6 @@ Welcome to the Maze Game — a fun and interactive web-based game built with HTM
 - 💡 Displays move count and victory message
 - 📱 Fully responsive and mobile-friendly
 
-## 🖼️ Preview
-
-![Maze Game Screenshot](maze-screenshot.png)  
-*(Include your own screenshot of the game in the repo for best results)*
-
 ## 📂 Project Structure
 
 ```plaintext
